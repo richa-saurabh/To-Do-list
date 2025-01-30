@@ -12,6 +12,13 @@ A vibrant and interactive To-Do List web application with modern UI/UX features,
 - 📅 Due date tracking and category organization
 - 🎮 Interactive hover animations and smooth transitions
 
+## 🛠️ Technologies Used
+- Backend: Python Flask
+- Database: SQLite
+- Frontend: Bootstrap 5, Custom CSS Animations
+- Fonts: Google Fonts (Pacifico, Bangers)
+- Icons: Bootstrap Icons
+
 ## ⚙️ Installation
 
 1. Clone the repository:
@@ -32,10 +39,3 @@ python app.py
 
 Visit http://localhost:5000 in your browser to use the app!
 
-🛠️ Technologies Used
-Backend: Python Flask
-
-Database: SQLite
-Frontend: Bootstrap 5, Custom CSS Animations
-Fonts: Google Fonts (Pacifico, Bangers)
-Icons: Bootstrap Icons
